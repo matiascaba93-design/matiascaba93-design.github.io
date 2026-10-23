@@ -566,3 +566,15 @@ triplelift.com,14826,RESELLER,6c33edb13117fd86
 ushareit.com,LCc6b8b1c8aca38e6f,RESELLER
 verve.com,1007302,RESELLER,0c8f5958fc2d6282
 visiblemeasures.com,1090,RESELLER
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+monetrix.ai, 10761, RESELLER
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
+start.io, 131192070, RESELLER
+triplelift.com, 8614, RESELLER, 6c33edb13117fd86
+indexexchange.com,219174,RESELLER,50b1c356f2c5c8fc
+pubmatic.com,168363,RESELLER,5d62403b186f2ace
+pubmatic.com,168367,RESELLER,5d62403b186f2ace
+risecodes.com,66fab6981efdb80001a3dadc,RESELLER,79929e88b2ba73bc
